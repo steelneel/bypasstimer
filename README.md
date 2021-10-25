@@ -1,8 +1,7 @@
 # bypasstimer
 Bypass the Idrivesafely drive test timer
 
-
-vTimeReq = 0
+Copy this code and put it into the developer console in your browser "vTimeReq = 0"
 
 
 
